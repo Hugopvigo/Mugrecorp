@@ -171,7 +171,7 @@ Toggle de idioma en el navbar. Todos los textos centralizados en `src/i18n/es.js
 
 ## 📄 Licencia
 
-&copy; 2026 MugreCorp EU Inc. Todos los derechos reservados.
+**CC BY-NC-SA 4.0** — Compartir con atribución, sin uso comercial. Consulta [LICENSE](LICENSE) para más detalles.
 
 ---
 
