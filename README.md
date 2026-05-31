@@ -175,8 +175,12 @@ Toggle de idioma en el navbar. Todos los textos centralizados en `src/i18n/es.js
 
 ---
 
+---
+
 <div align="center">
 
-**[hugopvigo.github.io/Mugrecorp](https://hugopvigo.github.io/Mugrecorp)** · Hecho con ☕ y 🖥️ en España
+**Desarrollado por [Hugo Perez-Vigo](https://hugopvigo.es)** · [@hugopvigo](https://x.com/hugopvigo)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hugopvigo-181717?style=for-the-badge&logo=github)](https://github.com/Hugopvigo)
 
 </div>
